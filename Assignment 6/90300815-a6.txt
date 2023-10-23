@@ -1,0 +1,61 @@
+FILENAME: 90300815-a6.txt
+============================
+
+Question #1 (1)   OL Xfer Func
+INCORRECT: 50% < Error < 100%
+Grade : 0
+
+Question #1 (1/2)   Feedback Gain
+INCORRECT: 50% < Error
+Grade : 0
+
+Question #1 (1/2)   Ultimate Gain
+INCORRECT: 50% < Error
+Grade : 0
+
+Question #2 (1)   CL Xfer Func
+INCORRECT: 100% < Error
+Grade : 0
+
+Question #2 (1/2)   Settle Time
+CORRECT: Error < 5%
+Grade : 0.5
+
+Question #2 (1/2)   SS Error
+CORRECT: Error < 5%
+Grade : 0.5
+
+Question #2 (1/2)   Overshoot
+CORRECT: Error < 5%
+Grade : 0.5
+
+Question #2 (1/2)   Goal Overshoot
+INCORRECT: 50% < Error
+Grade : 0
+
+Question #3 (1)   Gain
+INCORRECT: 50% < Error
+Grade : 0
+
+Question #3 Settle Time
+Cannot grade question
+
+Question #3 SS Error
+Cannot grade question
+
+Question #4 Gain
+INCORRECT: 50% < Error
+
+Question #4 SS Error
+Cannot grade question
+
+Question #4 Overshoot
+Cannot grade question
+
+Question #4 Goal OS
+Cannot grade question
+
+===========================
+Total: 1.5 / 10
+
+Message From Grader:
